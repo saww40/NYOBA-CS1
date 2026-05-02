@@ -21,6 +21,7 @@ void vigenereDecrypt(char *ciphertext, char *key) {
 }
 
 int main() {
+
     char message[] = "rey txs qb xztwxgnvotB rciS"; //Pesan Enkripsi
     char *key = "tempkey";                
 
